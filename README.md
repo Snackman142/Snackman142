@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Snackman
 - 👀 I’m interested in video games and coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on coding
+- 💞️ I'm looking to be a twitch streamer
 - 📫 Don't reach me
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Like Potatoes
